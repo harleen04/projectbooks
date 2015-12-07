@@ -1,0 +1,25 @@
+body
+
+{background-image: url("bluecolor.jpg");
+font-family: sans-serif;
+color: white;
+}
+
+
+#container {
+
+  margin: 0 auto;
+vertical-align: middle;
+margin-top: 35px
+background-color: lightgrey;
+  width: 800px;
+  padding: 25px;
+  border: 25px solid lightblue;
+
+}
+
+
+
+
+<A href="homeindex.html"><input type="submit" value="Home" /></A>
+<A href="edit.html" ></A> <br>
